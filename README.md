@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://github.com/gjbae1212/hit-counter
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-w-nJ&show_icons=true&theme=radical)
+  <div align=center>
+	
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+	
+  </div>
