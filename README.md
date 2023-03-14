@@ -1,6 +1,6 @@
 <div align="center">
                    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-w-nJ&show_icons=true&theme=swift)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=D-w-nJ&count_private=true&theme=dark&include_all_commits=true"/></a>
   <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-w-nJ)](https://github.com/anuraghazra/github-readme-stats)
 </div>
@@ -9,6 +9,3 @@
 ---
 #### BaekJoon Algorithm Tier (solved.ac) 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jdu2121">
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=D-w-nJ&count_private=true&include_all_commits=true"/></a>
