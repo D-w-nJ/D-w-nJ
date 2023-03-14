@@ -8,4 +8,4 @@
   ### 📈 Github Stats
 ---
 #### BaekJoon Algorithm Tier (solved.ac) 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jdu2121">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jdu2121" align="center">
